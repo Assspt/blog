@@ -1,6 +1,6 @@
 ### blog
 <center>
-<h1 style="font-size:100px; color:#fff; background-color:#000; margin-top:-80px; margin-left:-13px; width:400px;">404</h1>
+<h1 style="font-size:100px; color:#fff; background-color:#000; margin-top:-80px; margin-left:-15px; width:400px;">404</h1>
 
 
 
